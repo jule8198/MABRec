@@ -1,7 +1,3 @@
-# Multi Armed Bandits for recommendation systems
-
-
-## About the project
 
 This work is to implement several MAB algorithms including basic, contextual, and more advanced multi armed bandits from papers [1-4].
 
@@ -38,20 +34,3 @@ scikit-learn 0.23.1<br>
 matplotlib 3.2.2<br>
 
 
-## References 
-
-[1] Lihong Li, Wei Chu, John Langford, Robert E. Schapire, ‘A Contextual-Bandit Approach to Personalized News Article Recommendation’, in Proceedings of the Nineteenth International Conference on World Wide Web (WWW’2010), Raleigh, NC, USA, 2010. 
-https://arxiv.org/pdf/1003.0146.pdf
-
-[2] Lihong Li, Wei Chu, John Langford, and Xuanhui Wang. ‘Unbiased offline evaluation of contextualbandit-based news article recommendation algorithms.’ In Proceedings of the Fourth ACM International Conference on Web Search and Data Mining (WSDM’2011), pp. 297-306. ACM, 2011.
-https://arxiv.org/pdf/1003.5956.pdf
-
-[3] Adam N. Elmachtoub, Ryan McNellis, Sechan Oh and Marek Petrik, ‘A Practical Method for Solving Contextual Bandit Problems Using Decision Trees’, in Proceedings of the Thirty-Third Conference on Uncertainty in Artificial Intelligence (UAI’2017), Sydney, Australia, 2017.
-http://auai.org/uai2017/proceedings/papers/171.pdf
-
-[4] Michal Valko, Nathan Korda, R´emi Munos, Ilias Flaounas, and Nello Cristianini, ‘Finite-time analysis of kernelised contextual bandits.’ In Proceedings of the Twenty-Ninth Conference on Uncertainty in Artificial Intelligence (UAI’13), pp. 654-663. AUAI Press, 2013.
-http://auai.org/uai2013/prints/papers/161.pdf
-
-----
-
-Have fun 
